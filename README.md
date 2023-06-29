@@ -72,6 +72,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
 
-## 📈 GitHub Stats 
+## ✨ Daily Inspiration
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Yaashi's github stats](https://github-readme-stats.vercel.app/api?username=yaashikansal)](https://github.com/yaashikansal)
