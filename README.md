@@ -1,9 +1,10 @@
 <div style="background-color:#92cd00">
 <h1 align="center">Hi 👋, I'm Yaashi Kansal</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F785D4&width=435&lines=Business+Data+Analyst;Business+Intelligence+Analyst+;Business+Analyst+;IT+Engineer" alt="Typing SVG" /></a>
-</p>
 <h3 align="center">I am currently a 3rd year IT undergraduate student at Maharaja Agrasen Institute of Technology</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F785D4&center=true&vCenter=true&width=435&lines=Business+Data+Analyst;Business+Intelligence+Analyst+;Business+Analyst+;IT+Engineer" alt="Typing SVG" /></a>
+</p>
 
 ### 🤝 Connect with me:
 
