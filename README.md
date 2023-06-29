@@ -3,7 +3,7 @@
 <h3 align="center">I am currently a 3rd year IT undergraduate student at Maharaja Agrasen Institute of Technology</h3>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F785D4&width=435&lines=Business+Data+Analyst;Business+Intelligence+Analyst+;Business+Analyst+;IT+Engineer)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F785D4&width=435&lines=Business+Data+Analyst;Business+Intelligence+Analyst+;Business+Analyst+;IT+Engineer" alt="Typing SVG" /></a>
 </p>
 
 ### 🤝 Connect with me:
@@ -69,11 +69,9 @@
 
 </br>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Yaashi's github stats](https://github-readme-stats.vercel.app/api?username=yaashikansal)](https://github.com/yaashikansal)
